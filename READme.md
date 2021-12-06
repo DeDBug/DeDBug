@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding for Termux
 - 🌱 I’m currently learning PCB Programming or Reprogramming
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me ...
+- 📫 How to reach me github.com
 
 <!---
 DeDBug/DeDBug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
