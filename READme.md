@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeDBug
-- 👀 I’m interested in Coding for Termux
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning PCB Programming or Reprogramming
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me github.com
