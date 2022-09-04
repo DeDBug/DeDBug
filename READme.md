@@ -9,3 +9,6 @@ DeDBug/DeDBug is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 https://github.com/termux
+https://bandcamp.com/tag/death-metal
+https://bandcamp.com/tag/blackmetal
+https://bandcamp.com/tag/deathgrind
