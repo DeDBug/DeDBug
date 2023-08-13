@@ -12,4 +12,4 @@ https://github.com/termux
 https://bandcamp.com/tag/death-metal
 https://bandcamp.com/tag/blackmetal
 https://bandcamp.com/tag/deathgrind
-Looking For Lessons In Coding.
+Looking For A Teacher/Lessons In Coding.
